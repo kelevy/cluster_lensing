@@ -1,1 +1,3 @@
-# cluster_lensing
+# CMB Cluster Lensing Estimator for Temperature and Polarization
+
+Galaxy clusters induce a distinct dipole pattern in the cosmic microwave background (CMB) through the effect of gravitational lensing. Extracting this lensing signal will enable us to constrain cluster masses, even for high redshift clusters (z≳1) that are expected to be detected by future CMB surveys. However, cluster-correlated foreground signals, like the kinematic and thermal Sunyaev-Zel'dovich (kSZ and tSZ) signals, present a challenge when extracting the lensing signal from CMB temperature data. While CMB polarization-based lensing reconstruction is one way to mitigate these foreground biases, the sensitivity from CMB temperature-based reconstruction is expected to be similar to or higher than polarization for future surveys. This CMB-cluster lensing estimaor, on the other hand, is immune to astophysical foregrounds and easy to implement. 
